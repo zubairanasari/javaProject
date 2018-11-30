@@ -13,6 +13,7 @@ public class MethodOfArbitraryObject {
 		}
 		
 		String str = "This is String.";
+		System.out.println(str);
 		//Predicate<Character> ch = String::charAt;
 	}
 
